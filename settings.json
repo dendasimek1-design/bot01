@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7B12-ZQVJ.aternos.me,
+    "ip": "7B12-ZQVJ.aternos.me",
     "port": 33980,
     "version": "",
     "try-creative": false
